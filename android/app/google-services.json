@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710740617944",
+    "project_id": "pethub-4694f",
+    "storage_bucket": "pethub-4694f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710740617944:android:edd4c799f568e82325c5ad",
+        "android_client_info": {
+          "package_name": "com.example.pethub_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9QPnKjq9LFYgSiUN1ZvBSSHN87fkmmzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
