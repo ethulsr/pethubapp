@@ -293,17 +293,19 @@ class _ProfileContentState extends State<ProfileContent> {
                       backgroundColor:
                           Colors.black, // Background color of the button
                       padding: EdgeInsets.symmetric(
-                          vertical: 36.0, horizontal: 160.0),
+                          vertical: 25.0, horizontal: 44.0),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8.0),
                       ),
                     ),
-                    child: Text(
-                      'Submit',
-                      style: TextStyle(
-                        fontSize: 18.0,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.white,
+                    child: Center(
+                      child: Text(
+                        'Submit',
+                        style: TextStyle(
+                          fontSize: 18.0,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                        ),
                       ),
                     ),
                   ),
